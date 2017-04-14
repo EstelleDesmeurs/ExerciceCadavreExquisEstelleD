@@ -19,7 +19,13 @@ J'ai acheté une incroyanle barre de chocolat...
 mais il me manqué du miel...
 et du coup, j'ai trouvé une balle de ping pong.
 
+<<<<<<< HEAD
 # Ludo
 Dans lequel il y avait du miel. Du coup mes mains 
 collait quand j'ai voulu jouer le prélude de bach avec le prêtre, 
 qui jouait de la flûte au bois.  
+=======
+Vu qu'ils se trouvaient dans une plaine déserte, ils installèrent tranquillement leurs tentes.
+Au petit matin, il se reveilla en retard pour se rendre a sa formation.
+Qui vivra, verra.
+>>>>>>> 4c22fde55e9541e48bcc1577a90fa201c18eeb02
