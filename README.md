@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ExerciceCadavreExquisEstelleD
 =======
 #Surréalisme:
+=======
+# Surréalisme:
+>>>>>>> 1f3f54e4615d6a763f6fe9e6b34495688b0938f5
 
 Après avoir coupé l'oeil du [chien andalou](https://www.youtube.com/watch?v=054OIVlmjUM), 
 il s'est rendu compte que des fourmis sortaient de la paume de sa main. 
