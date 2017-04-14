@@ -31,12 +31,12 @@ qui jouait de la flûte au bois.
 Vu qu'ils se trouvaient dans une plaine déserte, ils installèrent tranquillement leurs tentes.
 Au petit matin, il se reveilla en retard pour se rendre a sa formation.
 Qui vivra, verra.
->>>>>>> 4c22fde55e9541e48bcc1577a90fa201c18eeb02
+
 # Test troll time with jo
 Ils vécurent longtemps mais virent peu<br />
 En effet la tente suivait également la formation<br />
 Mais vu qu'elle faisait 30 mètres d'envergure, ils n'y voyaient que dalle! <br />
-=======
+
 # Surréalisme:
 
 Après avoir coupé l'oeil du [chien andalou](https://www.youtube.com/watch?v=054OIVlmjUM), 
@@ -48,4 +48,7 @@ Il devait faire vite, mais ne pouvait pas avancer rapidement car il traînait de
 **la paume de sa main est dans la mienne** 
 *lul*
 **AM I crazy**
->>>>>>> ajoutkresh
+
+
+### pull fecth
+
