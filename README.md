@@ -18,3 +18,7 @@ Il devait faire vite, mais ne pouvait pas avancer rapidement car il traînait de
 J'ai acheté une incroyanle barre de chocolat...
 mais il me manqué du miel...
 et du coup, j'ai trouvé une balle de ping pong.
+
+Vu qu'ils se trouvaient dans une plaine déserte, ils installèrent tranquillement leurs tentes.
+Au petit matin, il se reveilla en retard pour se rendre a sa formation.
+Qui vivra, verra.
